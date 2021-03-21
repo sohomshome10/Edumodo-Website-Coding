@@ -327,12 +327,22 @@ nav{
     font-size: 16px;
     font-weight: 600;
     margin: 12px 0;
+    transition: all .2s ease-in-out;
+}
+.f3 ul li:hover{
+    color: #ffc178;
+    cursor: pointer;
 }
 .f2 ul li{
     color: #969595;
     font-size: 14px;
     font-weight: 600;
     margin: 15px 0;
+    transition: all .2s ease-in-out;
+}
+.f2 ul li:hover{
+    color: #ffc178;
+    cursor: pointer;
 }
 .f2 ul li span{
     color: #6b6b6b;
